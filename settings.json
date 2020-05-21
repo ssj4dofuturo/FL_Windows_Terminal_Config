@@ -27,8 +27,6 @@
     // "theme" : "light",
 
     // Others
-    "initialCols" : 140,
-    "initialRows" : 40,
     "showTabsInTitlebar": true,
     "alwaysShowTabs": false,
 
