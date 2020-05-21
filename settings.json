@@ -112,20 +112,20 @@
             "brightBlack" : "#808080",
             "black" : "#4d4d4d",
 
-            "brightBlue" : "#ccebff",
-            "blue" : "#33adff",
+            "brightBlue" : "#99d6ff",
+            "blue" : "#0099ff",
 
-            "brightCyan" : "#ccffff",
-            "cyan" : "#33ffff",
+            "brightCyan" : "#99ffff",
+            "cyan" : "#00ffff",
 
-            "brightGreen" : "#ccffeb",
-            "green" : "#33ffad",
+            "brightGreen" : "#99ffd6",
+            "green" : "#00ff99",
 
-            "brightPurple" : "#f2ccff",
-            "purple" : "#cc33ff",
+            "brightPurple" : "#e699ff",
+            "purple" : "#bf00ff",
 
-            "brightRed" : "#ffcccc",
-            "red" : "#ff3333",
+            "brightRed" : "#ff9999",
+            "red" : "#ff1a1a",
 
             "brightWhite" : "#b3b3b3",
             "white" : "#FFFFFF",
